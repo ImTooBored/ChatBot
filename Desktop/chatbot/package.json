@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^5.0.8",
+    "@google/generative-ai": "^0.11.1",
+    "ai": "^3.1.8",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18"
